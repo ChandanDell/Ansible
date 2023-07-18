@@ -48,8 +48,8 @@
 192.168.150.132
 
 #Hostname are as follows
-[hostname]
-Usrv01
-Usrv02
-Usrv03
+#[hostname]
+#Usrv01
+#Usrv02
+#Usrv03
 
